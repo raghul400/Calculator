@@ -50,10 +50,14 @@ button{
     color:#ffffff;
     box-shadow:  -5px -5px 22px rgba(250,250, 250, 0.11);
 }
-.operator{
-    color:orange;
+.operator {
+    background-color: #bcbcbc;
+    color: #000000;
+
 }
-.equalButton{
-    color: green;
+
+.equalButton {
+    color: #ffffff;
+    background-color: #ffa500;
     font-size: 35px;
 }
